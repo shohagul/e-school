@@ -74,9 +74,9 @@ button{
 }
 .man img{
     width: 80px;
-    position: relative;
+    /* position: relative;
     top: 70%;
-    left: 70%;
+    left: 70%; */
     margin-top: 80px;
   
 }
@@ -98,7 +98,7 @@ button{
 }
 .last{
     font-size: 14px;
-    border-radius: 5px;
+    
 }
 .copyright{
     font-size: 13px;
